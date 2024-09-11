@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Hello world
+        </title>
+    </head>
+    <body>
+        <h1>
+            The King
+        </h1>
+        <img src="https://pbs.twimg.com/media/FwbX_g1akAEZaS9.jpg:large"
+        
+        <hr>
+        <img src="https://static.tnn.in/thumb/107445066/107445066.jpg?height=746&width=420&resizemode=76&imgsize=51410"
+        <hr>
+        <img src="https://w0.peakpx.com/wallpaper/855/149/HD-wallpaper-best-virat-kohli-kisses-the-chain-sports-cricketer.jpg"
+        <hr>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo3046Gt1ViNSSKp6MCQom134YT-66tzAtKw&s"
+        <hr>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo1uwojTasX6o_MahRfR6aNhLCZqWITegieQ&s"
+        <hr>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/Wp8_0FS-Ts4?si=E74iP3vxXnZZAVz5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/fng8E2kPK9s?si=ePh7T37ZxjwvsHTZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <style>
+            .RCB {
+                background-color: rgba(220, 29, 29, 0.953);
+                color: rgba(225, 197, 33, 0.853);
+                border: none;
+                border-radius: 2px;
+                cursor: pointer;
+                height: 36px;
+                width: 50px;
+                transition: background-color 0.15s;
+            }
+            .Instagram {
+                background-color: rgba(228, 206, 206, 0.781);
+                color: pink;
+                border: none;
+                border-radius: 2px;
+                cursor: pointer;
+                width: 100px;
+                height: 36px;
+                transition: background-color 0.15s;
+            }
+            .RCB:hover {
+                background-color: rgb(93, 22, 22);
+                color: blue;
+            }
+            .Instagram:hover {
+                background-color: orange;
+                color: aquamarine;
+            } 
+            .Website {
+                background-color: rgba(228, 206, 206, 0.781);
+                color: pink;
+                border: none;
+                border-radius: 4px;
+                cursor: pointer;
+                width: 100px;
+                height: 40px;
+                transition: background-color 0.15s;
+            }
+            .Website:hover {
+                background-color: orange;
+                color: aquamarine;
+            }
+        </style>
+        <button class="RCB">
+            <a href="https://www.royalchallengers.com/">RCB</a>
+        </button>
+        <button class="Instagram">
+            <a href="https://www.instagram.com/virat.kohli/?hl=en">Instagram</a>
+        </button>
+        <buttton class="Website">
+            <a href="https://viratkohli.foundation/">Website</a>
+        </buttton>
+
+    </body>
+</html>
