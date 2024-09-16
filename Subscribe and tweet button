@@ -1,0 +1,46 @@
+<html>
+    <head>
+        <title>
+            Browser
+        </title>
+    </head>
+    <body>
+        Hii!!
+        <hr>
+        <style>
+          .SUBSCRIBE{
+            background-color: red;
+            color: white;
+            border: None;
+            border-radius: 2px;
+            width: 100px;
+            height: 36px;
+            cursor: pointer;
+          }
+          .Tweet{
+            background-color:  #1DA1F2;
+            color: white;
+            border: None;
+            border-radius: 40px;
+            width: 100px;
+            cursor: pointer;
+            height: 36px;
+          }
+          SUBSCRIBE:hover {
+                background-color: rgb(93, 22, 22);
+                color: blue;
+          }
+          :hover {
+                background-color: rgb(93, 22, 22);
+                color: blue;
+          }
+        </style>
+        <button class="SUBSCRIBE">
+            <a>SUBSCRIBE</a>
+            </button>
+            <hr>
+        <button class="Tweet">
+          <a>Tweet</a>
+        </button>
+    </body>
+</html>
